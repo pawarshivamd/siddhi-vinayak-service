@@ -1,0 +1,121 @@
+{
+  "businessInfo": {
+    "name": "Siddhi Vinayak Services",
+    "expert": "Mr. Ravi Pawar",
+    "phone": "+91-9574687185",
+    "location": "Ahmedabad & Gandhinagar",
+    "tagline": "Your Trusted AC Partner for Life"
+  },
+  "process": [
+    {
+      "step": 1,
+      "title": "Book a Call",
+      "icon": "PhoneCall",
+      "description": "Customer contacts us via phone or online booking."
+    },
+    {
+      "step": 2,
+      "title": "Expert Inspection",
+      "icon": "ClipboardCheck",
+      "description": "Site visit & diagnosis including free gas level check."
+    },
+    {
+      "step": 3,
+      "title": "Quality Service",
+      "icon": "Wrench",
+      "description": "Genuine parts & precision work using foam and jet spray."
+    },
+    {
+      "step": 4,
+      "title": "Cooling Guaranteed",
+      "icon": "Snowflake",
+      "description": "Final testing, clean-up, and 30-day service guarantee."
+    }
+  ],
+  "services": [
+    {
+      "id": "s1",
+      "name": "Power Jet AC Service",
+      "price": 599,
+      "originalPrice": 799,
+      "duration": "1 hr",
+      "description": "Deep cleaning using high-pressure jet pump for maximum cooling."
+    },
+    {
+      "id": "s2",
+      "name": "Split AC Installation",
+      "price": 1499,
+      "originalPrice": 1800,
+      "duration": "1.5 hr",
+      "description": "Professional installation with precision alignment and gas check."
+    },
+    {
+      "id": "s3",
+      "name": "Window AC Installation",
+      "price": 500,
+      "originalPrice": 700,
+      "duration": "1 hr",
+      "description": "Secure mounting and sealing for window units."
+    },
+    {
+      "id": "s4",
+      "name": "AC Gas Refilling",
+      "price": 1500,
+      "originalPrice": 2100,
+      "duration": "1 hr",
+      "description": "Full gas charging or top-up with pressure testing."
+    }
+  ],
+  "packages": [
+    {
+      "id": "p1",
+      "name": "Monthly Maintenance",
+      "price": 299,
+      "features": [
+        "Regular filter cleaning",
+        "Basic inspection",
+        "Drain pipe check"
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Yearly Protection (AMC)",
+      "price": 2499,
+      "features": [
+        "4 Comprehensive services",
+        "Full gas top-up included",
+        "Priority breakdown support",
+        "10% discount on spare parts"
+      ],
+      "popular": true
+    }
+  ],
+  "sales": [
+    {
+      "title": "Buy New/Refurbished ACs",
+      "description": "Best deals on top brands like Daikin, Voltas, and LG."
+    },
+    {
+      "title": "Genuine Spare Parts",
+      "description": "High-quality copper pipes, compressors, and remotes."
+    },
+    {
+      "title": "Sell Your Old AC",
+      "description": "We buy old units at the best market price."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How often should I service my AC?",
+      "answer": "We recommend a full service every 3-4 months for optimal performance and energy efficiency."
+    },
+    {
+      "question": "Do you provide a warranty on repairs?",
+      "answer": "Yes, we provide a 30-day service guarantee on all our work."
+    },
+    {
+      "question": "Are your technicians verified?",
+      "answer": "Absolutely. All our technicians are background-checked and highly experienced experts."
+    }
+  ]
+}
